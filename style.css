@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+}
+
+#button-result {
+    border: none;
+    border-radius: 5px;
+}
+
+.content-result {
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.base {
+    padding: 10px;
+    background-color: rgb(6, 6, 5);
+    color: rgb(232, 21, 21);
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+.blue {
+    background-color: blue;
+    color: white;
+}
+.grey {
+    background-color: grey;
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.small {
+    padding: 5px;
+}
+
+.standard {
+    padding: 10px;
+}
+
+.big {
+    padding: 20px;
+}
