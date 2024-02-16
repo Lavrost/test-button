@@ -19,6 +19,12 @@
     color: rgb(232, 21, 21);
 }
 
+.btn {
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
 .red {
     background-color: red;
     color: white;
